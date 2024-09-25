@@ -1,5 +1,5 @@
 {
-	"name" : "realexpayments/hpp",
+	"name" : "cool-studio/realexpayments-hpp-magento2",
 	"description" : "A Magento 2 module for Global Payments HPP payments",
 	"type" : "magento2-module",
 	"version" : "3.3.9",
